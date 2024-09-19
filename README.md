@@ -15,7 +15,7 @@ Aquí encontrarás algunos de los proyectos en los que estoy trabajando o he tra
 
 ## ¿Cómo Contactarme?
 
-- 📧 Email: arturovela70@gmail.com (reemplaza con tu correo si deseas)
+- 📧 Email: arturovela70@gmail.com
 
 ## ¿Te gustaría colaborar?
 
