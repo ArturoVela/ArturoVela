@@ -22,3 +22,6 @@ Aquí encontrarás algunos de los proyectos en los que estoy trabajando o he tra
 Estoy abierto a colaborar en proyectos interesantes que me ayuden a mejorar mis habilidades y conocimientos en programación. Si tienes alguna idea o proyecto en el que crees que podría colaborar, no dudes en contactarme.
 
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=radical)
+
+
