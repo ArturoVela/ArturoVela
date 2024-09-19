@@ -39,6 +39,21 @@ Estoy abierto a colaborar en proyectos interesantes que me ayuden a mejorar mis 
 </p>
 
 
+### Diseño Gráfico
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai&perline=2" alt="Photoshop e Illustrator" />
+</p>
+
+### Herramientas y Plataformas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github&perline=1" alt="GitHub" />
+</p>
+
+### Comunicación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord&perline=1" alt="Discord" />
+</p>
+
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=tokyonight)
