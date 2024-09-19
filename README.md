@@ -30,17 +30,13 @@ Estoy abierto a colaborar en proyectos interesantes que me ayuden a mejorar mis 
 
 ### Editores de Código
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse&perline=3" alt="Editores de Código" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Archlinux-icon-crystal-64.svg" width="48" height="48" alt="JGRAPS" /> <!-- Ícono agregado manualmente -->
+  <img src="https://skillicons.dev/icons?i=vscode,vim,jupyter,eclipse&perline=4" alt="Editores de Código" />
 </p>
 
 ### Sistemas Operativos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=2" alt="Sistemas Operativos" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Archlinux-icon-crystal-64.svg" width="48" height="48" alt="Arch Linux" /> <!-- Ícono agregado manualmente -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-kali-linux-icon-256x256.png" width="48" height="48" alt="Kali Linux" /> <!-- Ícono agregado manualmente -->
+  <img src="https://skillicons.dev/icons?i=windows,archlinux,ubuntu,kali" alt="Sistemas Operativos" />
 </p>
-
 
 
 ## 📊 Estadísticas de GitHub
