@@ -71,11 +71,12 @@ Aquí puedes explorar algunos proyectos en los que he trabajado o estoy trabajan
   <a href="https://github.com/ArturoVela/Colmena-" target="_blank">
     <img src="https://img.shields.io/badge/🔗-Colmena--Project-blue?style=for-the-badge" alt="Colmena Project" />
   </a>
-  <a href="https://github.com/ArturoVela/Pachas" target="_blank">
+</p>
+<p
+ <a href="https://github.com/ArturoVela/Pachas" target="_blank">
     <img src="https://img.shields.io/badge/🔗-Pachas-Project-blue?style=for-the-badge" alt="Pachas Project" />
   </a>
 </p>
-
 ---
 
 ## 🤝 ¿Te gustaría colaborar?
