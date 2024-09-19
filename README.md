@@ -18,7 +18,7 @@
 
 ### Lenguajes y Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,python,nodejs&perline=6" alt="Tecnologías Conocidas" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs&perline=6" alt="Tecnologías Conocidas" />
 </p>
 
 ### Editores de Código
