@@ -33,12 +33,12 @@
 
 ### Diseño Gráfico
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma&perline=3" alt="Photoshop, Illustrator y Figma" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,&perline=3" alt="Photoshop, Illustrator y Figma" />
 </p>
 
 ### Herramientas y Plataformas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,heroku,netlify&perline=4" alt="Herramientas y Plataformas" />
+  <img src="https://skillicons.dev/icons?i=github,git,&perline=4" alt="Herramientas y Plataformas" />
 </p>
 
 ### Comunicación
