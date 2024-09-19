@@ -21,6 +21,24 @@ Aquí encontrarás algunos de los proyectos en los que estoy trabajando o he tra
 
 Estoy abierto a colaborar en proyectos interesantes que me ayuden a mejorar mis habilidades y conocimientos en programación. Si tienes alguna idea o proyecto en el que crees que podría colaborar, no dudes en contactarme.
 
+## 🚀 Tecnologías Conocidas
+
+### Lenguajes y Tecnologías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs&perline=5" alt="Tecnologías Conocidas" />
+</p>
+
+### Editores de Código
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,jupyter,eclipse&perline=4" alt="Editores de Código" />
+</p>
+
+### Sistemas Operativos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,archlinux,ubuntu,kali" alt="Sistemas Operativos" />
+</p>
+
+
 
 ## 📊 Estadísticas de GitHub
 
