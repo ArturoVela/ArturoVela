@@ -30,12 +30,12 @@ Estoy abierto a colaborar en proyectos interesantes que me ayuden a mejorar mis 
 
 ### Editores de Código
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,jupyter,eclipse&perline=4" alt="Editores de Código" />
+  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse&perline=4" alt="Editores de Código" />
 </p>
 
 ### Sistemas Operativos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,archlinux,ubuntu,kali" alt="Sistemas Operativos" />
+  <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,kali" alt="Sistemas Operativos" />
 </p>
 
 
