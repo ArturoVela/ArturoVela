@@ -21,8 +21,4 @@ Aquí encontrarás algunos de los proyectos en los que estoy trabajando o he tra
 
 Estoy abierto a colaborar en proyectos interesantes que me ayuden a mejorar mis habilidades y conocimientos en programación. Si tienes alguna idea o proyecto en el que crees que podría colaborar, no dudes en contactarme.
 
-## Licencia
 
-Este repositorio está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-¡Gracias por visitar mi perfil! 🚀
