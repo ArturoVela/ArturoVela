@@ -24,11 +24,12 @@ Estoy abierto a colaborar en proyectos interesantes que me ayuden a mejorar mis 
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArturoVela&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArturoVela&theme=tokyonight)
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=ArturoVela&theme=onedark)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=ArturoVela&theme=tokyonight)
+
 
 
 
