@@ -15,8 +15,7 @@ Aquí encontrarás algunos de los proyectos en los que estoy trabajando o he tra
 
 ## ¿Cómo Contactarme?
 
-- 📧 Email: arturovela@example.com (reemplaza con tu correo si deseas)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/arturovela) (si tienes un perfil, agrega tu enlace aquí)
+- 📧 Email: arturovela70@gmail.com (reemplaza con tu correo si deseas)
 
 ## ¿Te gustaría colaborar?
 
