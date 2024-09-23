@@ -74,6 +74,9 @@ Aquí puedes explorar algunos proyectos en los que he trabajado o estoy trabajan
   <a href="https://github.com/ArturoVela/Pachas" target="_blank">
     <img src="https://img.shields.io/badge/🔗-Pachas--Project-1f8b4c?style=for-the-badge&logo=github" alt="Pachas Project" />
   </a>
+  <a href="https://github.com/ArturoVela/Sistemas-operativo" target="_blank">
+    <img src="https://img.shields.io/badge/🔗-SO--Project-1f8b4c?style=for-the-badge&logo=github" alt="Pachas Project" />
+  </a>
 </p>
 
 
