@@ -81,17 +81,17 @@ Aquí algunos de los proyectos en los que he estado trabajando. ¡Siempre estoy 
   <a href="https://github.com/ArturoVela/Colmena-" target="_blank">
     <img src="https://img.shields.io/badge/🔗-Colmena_Project-1f8b4c?style=for-the-badge&logo=github" alt="Colmena Project" />
   </a> <br/>
-  <em>Descripción breve: [**AÑADE AQUÍ UNA DESCRIPCIÓN CORTA DEL PROYECTO COLMENA** - ej: Sistema web para gestión X desarrollado con Y.]</em>
+  <em>Descripción breve: Sistema de ventas hoteleria </em>
   <br/><br/>
   <a href="https://github.com/ArturoVela/Pachas" target="_blank">
     <img src="https://img.shields.io/badge/🔗-Pachas_Project-1f8b4c?style=for-the-badge&logo=github" alt="Pachas Project" />
   </a> <br/>
-  <em>Descripción breve: [**AÑADE AQUÍ UNA DESCRIPCIÓN CORTA DEL PROYECTO PACHAS** - ej: Exploración personal sobre Z usando la tecnología W.]</em>
+  <em>Descripción breve: Página web de Pacha's Café</em>
   <br/><br/>
   <a href="https://github.com/ArturoVela/Sistemas-operativo" target="_blank">
     <img src="https://img.shields.io/badge/🔗-Proyecto_Sistemas_Operativos-lightgrey?style=for-the-badge&logo=c" alt="Proyecto Sistemas Operativos" />
   </a> <br/>
-  <em>Descripción breve: [**AÑADE AQUÍ UNA DESCRIPCIÓN CORTA DEL PROYECTO SO** - ej: Implementación de conceptos de SO (planificación, memoria) en C.]</em>
+  <em>Descripción breve: Página web de municipio de Rioja</em>
 </p>
 
 ---
