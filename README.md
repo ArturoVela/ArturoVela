@@ -45,7 +45,7 @@
 
 ### Herramientas y Plataformas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postmangit,&perline=4" alt="Herramientas y Plataformas" />
+  <img src="https://skillicons.dev/icons?i=github,postman,git&perline=4" alt="Herramientas y Plataformas" />
 </p>
 
 ### Comunicación
