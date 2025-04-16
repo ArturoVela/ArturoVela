@@ -25,7 +25,12 @@
 
 ### Editores de Código
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,visualstudio&perline=4" alt="Editores de Código" />
+  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,postman,visualstudio&perline=4" alt="Editores de Código" />
+</p>
+
+### Base de datos 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,visualstudio&perline=4" alt="Base de datos" />
 </p>
 
 ### Sistemas Operativos
