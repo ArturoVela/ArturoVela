@@ -108,7 +108,7 @@ Puedes encontrarme en:
 
 * 📧 **Email:** [arturovela70@gmail.com](mailto:arturovela70@gmail.com)
 * 💬 **Discord:** `maldadpuramorada`
-* 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/) (*Opcional: ¡Añade tu enlace si tienes!*)
+* 💼 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/arturo-vela-aa81242ba/) 
 
 ---
 
