@@ -1,113 +1,123 @@
 # ¡Hola, soy Arturo Vela! 👋
 
-¡Bienvenidos a mi perfil de GitHub! 🎉 Soy un apasionado estudiante de **Ingeniería de Sistemas** en la Universidad Nacional de San Martín (UNSM), Tarapoto. Me encanta explorar el mundo de la programación y descubrir cómo la tecnología puede transformar nuestras vidas. 🌐
+¡Bienvenido/a a mi rincón en GitHub! 🎉 Soy un entusiasta **Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de San Martín (UNSM), Tarapoto, Perú 🇵🇪. Me apasiona profundamente la tecnología y cómo la programación puede resolver problemas y crear soluciones innovadoras. 🌐
 
 ---
-
-
 
 ## 🌟 Sobre Mí
 
-- 🎓 **Estudiante** de Ingeniería de Sistemas en la UNSM, Tarapoto.
-- 💻 **Apasionado por la Tecnología:** Me encanta aprender sobre desarrollo de software, ciberseguridad y nuevas tecnologías.
-- 🌱 **Aprendiz Constante:** Actualmente, estoy aprendiendo fundamentos de programación y explorando diferentes lenguajes como Python, JavaScript y más.
-- 🚀 **Objetivos:** Convertirme en un desarrollador full-stack y contribuir a proyectos innovadores.
-- 🧩 **Problem Solver:** Me gusta resolver problemas del mundo real con soluciones creativas y eficientes.
+* 🎓 **Estudiante de Ingeniería de Sistemas** en la UNSM, Tarapoto.
+* 💡 **Apasionado por la Tecnología:** Siempre explorando el desarrollo de software, la ciberseguridad y las tendencias emergentes.
+* 🌱 **Aprendiz Constante:** Actualmente profundizando en desarrollo web (JavaScript, Node.js) y backend (Java), además de fortalecer mis bases en estructuras de datos y algoritmos.
+* 🚀 **Metas:** Evolucionar hacia un rol de desarrollador Full-Stack y contribuir activamente a proyectos de código abierto o que generen un impacto positivo.
+* 🧩 **Resolviendo Retos:** Disfruto analizando problemas y diseñando soluciones creativas y eficientes mediante el código.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Mi Stack Tecnológico y Herramientas
 
-### Lenguajes y Tecnologías
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,nodejs&perline=6" alt="Tecnologías Conocidas" />
+<details>
+<summary>Haz clic para ver las tecnologías que uso</summary>
+
+**Lenguajes y Frontend:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css&perline=4" alt="Lenguajes y Frontend" />
 </p>
 
-### Editores de Código
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,visualstudio&perline=4" alt="Editores de Código" />
+**Backend y Runtime:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs&perline=4" alt="Backend y Runtime" />
+  </p>
+
+**Bases de Datos:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver&perline=4" alt="Bases de Datos" />
 </p>
 
-### Base de datos 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver&perline=4" alt="Base de datos" />
+**Herramientas de Desarrollo y Control de Versiones:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,eclipse,visualstudio,postman&perline=7" alt="Herramientas de Desarrollo" />
 </p>
 
-### Sistemas Operativos
-<p align="center">
+**Sistemas Operativos:**
+<p align="left">
   <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,kali&perline=4" alt="Sistemas Operativos" />
 </p>
 
-### Diseño Gráfico
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,&perline=3" alt="Photoshop, Illustrator y Figma" />
-</p>
+**Diseño Gráfico:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ai&perline=3" alt="Diseño Gráfico" />
+  </p>
 
-### Herramientas y Plataformas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postman,git&perline=4" alt="Herramientas y Plataformas" />
+**Comunicación:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=discord,gmail,slack,teams,telegram&perline=5" alt="Herramientas de Comunicación" />
 </p>
+</details>
 
-### Comunicación
+---
+
+## 📊 Mis Estadísticas en GitHub
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,gmail,slack,teams,telegram&perline=4" alt="Herramientas de Comunicación" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=tokyonight&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Arturo Vela" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoVela&theme=tokyonight&locale=es" alt="GitHub Streak de Arturo Vela" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ArturoVela&theme=tokyonight&margin-w=15&margin-h=15" alt="Trofeos de GitHub de Arturo Vela" />
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚀 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
+Aquí algunos de los proyectos en los que he estado trabajando. ¡Siempre estoy buscando aprender y mejorar con cada línea de código!
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoVela&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArturoVela&theme=tokyonight" alt="Trofeos" />
-</p>
-
----
-## 🚀 Mis Proyectos
-
-Aquí puedes explorar algunos proyectos en los que he trabajado o estoy trabajando. 🛠️ Me encanta recibir sugerencias y siempre busco aprender algo nuevo con cada desafío.
-
-<p align="center">
+<p align="left">
+  <a href="https://github.com/ArturoVela/ApiRest" target="_blank"> <img src="https://img.shields.io/badge/🔗-API_Rest_Académica-blue?style=for-the-badge&logo=spring" alt="API Rest Académica" />
+  </a> <br/>
+  <em>Descripción breve: Una API REST con Spring Boot para gestionar entidades académicas (Alumnos, Cursos, etc.).</em> 
+  <br/><br/>
   <a href="https://github.com/ArturoVela/Colmena-" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-Colmena--Project-1f8b4c?style=for-the-badge&logo=github" alt="Colmena Project" />
-  </a>
+    <img src="https://img.shields.io/badge/🔗-Colmena_Project-1f8b4c?style=for-the-badge&logo=github" alt="Colmena Project" />
+  </a> <br/>
+  <em>Descripción breve: [**AÑADE AQUÍ UNA DESCRIPCIÓN CORTA DEL PROYECTO COLMENA** - ej: Sistema web para gestión X desarrollado con Y.]</em>
+  <br/><br/>
   <a href="https://github.com/ArturoVela/Pachas" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-Pachas--Project-1f8b4c?style=for-the-badge&logo=github" alt="Pachas Project" />
-  </a>
+    <img src="https://img.shields.io/badge/🔗-Pachas_Project-1f8b4c?style=for-the-badge&logo=github" alt="Pachas Project" />
+  </a> <br/>
+  <em>Descripción breve: [**AÑADE AQUÍ UNA DESCRIPCIÓN CORTA DEL PROYECTO PACHAS** - ej: Exploración personal sobre Z usando la tecnología W.]</em>
+  <br/><br/>
   <a href="https://github.com/ArturoVela/Sistemas-operativo" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-SO--Project-1f8b4c?style=for-the-badge&logo=github" alt="Pachas Project" />
-  </a>
+    <img src="https://img.shields.io/badge/🔗-Proyecto_Sistemas_Operativos-lightgrey?style=for-the-badge&logo=c" alt="Proyecto Sistemas Operativos" />
+  </a> <br/>
+  <em>Descripción breve: [**AÑADE AQUÍ UNA DESCRIPCIÓN CORTA DEL PROYECTO SO** - ej: Implementación de conceptos de SO (planificación, memoria) en C.]</em>
 </p>
-
 
 ---
 
-## 🤝 ¿Te gustaría colaborar?
+## 🤝 Buscando Colaborar
 
-Estoy abierto a colaborar en proyectos que me permitan mejorar mis habilidades y aprender algo nuevo. Si tienes una idea interesante o un proyecto en mente, ¡no dudes en contactarme! 💬
+¡Estoy activamente buscando oportunidades para colaborar! Si tienes un proyecto interesante (especialmente en áreas de desarrollo web, Java/Spring, o código abierto) donde creas que puedo aportar o aprender, ¡me encantaría conectar contigo! 💬
 
 ---
 
 ## 📬 Contacto
 
-- 📧 **Email:** [arturovela70@gmail.com](mailto:arturovela70@gmail.com)
-- 💬 **Discord:** maldadpuramorada
+Puedes encontrarme en:
+
+* 📧 **Email:** [arturovela70@gmail.com](mailto:arturovela70@gmail.com)
+* 💬 **Discord:** `maldadpuramorada`
+* 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin/) (*Opcional: ¡Añade tu enlace si tienes!*)
 
 ---
 
 ## 🌱 Más Sobre Mí
 
-- 📈 Me encanta explorar estadísticas de mi perfil y progresar cada día un poco más.
-- 🎮 Fanático de los videojuegos y cómo se desarrollan, siempre curioso sobre el código detrás de ellos.
-- 📚 Amante de la lectura sobre tecnología, programación y desarrollo personal.
+* 📈 Me motiva ver mi progreso y aprender algo nuevo cada día.
+* 🎮 Soy un gran aficionado a los videojuegos, no solo jugándolos, sino también sintiendo curiosidad por su desarrollo técnico.
+* 📚 Disfruto leyendo sobre nuevas tecnologías, buenas prácticas de programación y crecimiento personal.
 
 ---
 
-¡Gracias por pasar por aquí! 😊 No dudes en explorar mis proyectos y conectar conmigo si tienes alguna pregunta o simplemente quieres charlar sobre tecnología.
+¡Gracias por visitar mi perfil! 😊 Siéntete libre de explorar mis repositorios o enviarme un mensaje.
