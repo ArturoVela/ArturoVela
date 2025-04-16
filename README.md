@@ -50,7 +50,7 @@
 
 ### Comunicación
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,slack,teams,telegram&perline=4" alt="Herramientas de Comunicación" />
+  <img src="https://skillicons.dev/icons?i=discord,gmail,slack,teams,telegram&perline=4" alt="Herramientas de Comunicación" />
 </p>
 
 ---
