@@ -25,7 +25,7 @@
 
 ### Editores de Código
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,postman,visualstudio&perline=4" alt="Editores de Código" />
+  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,visualstudio&perline=4" alt="Editores de Código" />
 </p>
 
 ### Base de datos 
@@ -45,7 +45,7 @@
 
 ### Herramientas y Plataformas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,&perline=4" alt="Herramientas y Plataformas" />
+  <img src="https://skillicons.dev/icons?i=github,postmangit,&perline=4" alt="Herramientas y Plataformas" />
 </p>
 
 ### Comunicación
