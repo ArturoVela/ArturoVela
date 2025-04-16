@@ -30,7 +30,7 @@
 
 ### Base de datos 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,visualstudio&perline=4" alt="Base de datos" />
+  <img src="https://skillicons.dev/icons?i=mysql,vim,eclipse,visualstudio&perline=4" alt="Base de datos" />
 </p>
 
 ### Sistemas Operativos
