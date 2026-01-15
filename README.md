@@ -1,123 +1,106 @@
-# ¡Hola, soy Arturo Vela! 👋
 
-¡Bienvenido/a a mi rincón en GitHub! 🎉 Soy un entusiasta **Estudiante de Ingeniería de Sistemas** en la Universidad Nacional de San Martín (UNSM), Tarapoto, Perú 🇵🇪. Me apasiona profundamente la tecnología y cómo la programación puede resolver problemas y crear soluciones innovadoras. 🌐
+<!--
+  Hi there! 👋 I'm Arturo Vela.
+  Thanks for visiting my profile!
+-->
 
----
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hola!+Soy+Arturo+Vela+👋;Desarrollador+Backend+%26+Web;Estudiante+de+Ingeniería+de+Sistemas;Bienvenido+a+mi+espacio!+🚀" alt="Typing SVG" />
 
-## 🌟 Sobre Mí
+  <br />
 
-* 🎓 **Estudiante de Ingeniería de Sistemas** en la UNSM, Tarapoto.
-* 💡 **Apasionado por la Tecnología:** Siempre explorando el desarrollo de software, la ciberseguridad y las tendencias emergentes.
-* 🌱 **Aprendiz Constante:** Actualmente profundizando en desarrollo web (JavaScript, Node.js) y backend (Java), además de fortalecer mis bases en estructuras de datos y algoritmos.
-* 🚀 **Metas:** Evolucionar hacia un rol de desarrollador Full-Stack y contribuir activamente a proyectos de código abierto o que generen un impacto positivo.
-* 🧩 **Resolviendo Retos:** Disfruto analizando problemas y diseñando soluciones creativas y eficientes mediante el código.
+  <!-- Social Badges (Placeholders - Add your actual links) -->
+  <a href="https://github.com/ArturoVela">
+    <img src="https://img.shields.io/github/followers/ArturoVela?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecta-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
----
+</div>
 
-## 🛠️ Mi Stack Tecnológico y Herramientas
-
-<details>
-<summary>Haz clic para ver las tecnologías que uso</summary>
-
-**Lenguajes y Frontend:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css&perline=4" alt="Lenguajes y Frontend" />
-</p>
-
-**Backend y Runtime:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs&perline=4" alt="Backend y Runtime" />
-  </p>
-
-**Bases de Datos:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver&perline=4" alt="Bases de Datos" />
-</p>
-
-**Herramientas de Desarrollo y Control de Versiones:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,eclipse,visualstudio,postman&perline=7" alt="Herramientas de Desarrollo" />
-</p>
-
-**Sistemas Operativos:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,arch,ubuntu,kali&perline=4" alt="Sistemas Operativos" />
-</p>
-
-**Diseño Gráfico:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai&perline=3" alt="Diseño Gráfico" />
-  </p>
-
-**Comunicación:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=discord,gmail,slack,teams,telegram&perline=5" alt="Herramientas de Comunicación" />
-</p>
-</details>
+<br />
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
+### 👨‍💻 Sobre Mí (About Me)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=tokyonight&rank_icon=github&locale=es" alt="Estadísticas de GitHub de Arturo Vela" />
+¡Hola! Soy un apasionado estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Martín (UNSM)** 🇵🇪.
+
+Me especializo en el desarrollo de software, con un enfoque particular en **Backend** (Java/Spring Boot) y **Desarrollo Web** (JavaScript/Node.js). Me encanta resolver problemas complejos, aprender nuevas tecnologías y construir herramientas que aporten valor real.
+
+- 🔭 Actualmente trabajando en: **Proyectos personales de Full Stack y APIs REST.**
+- 🌱 Aprendiendo profundamente: **Arquitectura de Microservicios y Cloud Computing.**
+- 💡 Intereses: **Ciberseguridad, Estructuras de Datos y Nuevas Tecnologías.**
+- 💬 Pregúntame sobre: **Java, Spring Boot, Web Development.**
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css" alt="Languages" />
+  <br/><br/>
+  
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,git,github,vscode,idea" alt="Frameworks & Tools" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Arturo's Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoVela&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoVela&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<br />
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=ArturoVela&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies" width="100%" />
+</div>
+
+---
+
+### 🚀 Proyectos Destacados (Featured Projects)
+
+Aquí algunos de los proyectos en los que he estado trabajando recientemente.
+
+| Proyecto | Descripción | Tech Stack |
+| :--- | :--- | :--- |
+| **☕ [Pachas](https://github.com/ArturoVela/Pachas)** | E-commerce para "Pacha's Café", café de especialidad de San Ignacio. | `HTML` `CSS` `JS` |
+| **🏨 [Colmena-](https://github.com/ArturoVela/Colmena-)** | Sistema de gestión y ventas para "Colmena Suites". | `HTML` `CSS` `Design` |
+| **🔌 [ApiRest](https://github.com/ArturoVela/ApiRest)** | API RESTful con Spring Boot para gestión académica (Estudiantes/Cursos). | `Java` `Spring Boot` |
+| **👗 [Sass-Ropas](https://github.com/ArturoVela/Sass-Ropas)** | Sistema de gestión de ventas de ropa. | `PHP` `MySQL` |
+| **💌 [San Valentin](https://github.com/ArturoVela/San-valentin-Patrick)** | Tarjeta interactiva con animaciones personalizadas. | `JavaScript` `CSS` |
+
+---
+
+<div align="center">
+  
+  ### 📈 Actividad Reciente (Activity Graph)
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoVela&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoVela&theme=tokyonight&locale=es" alt="GitHub Streak de Arturo Vela" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ArturoVela&theme=tokyonight&margin-w=15&margin-h=15" alt="Trofeos de GitHub de Arturo Vela" />
-</p>
-
----
-
-## 🚀 Proyectos Destacados
-
-Aquí algunos de los proyectos en los que he estado trabajando. ¡Siempre estoy buscando aprender y mejorar con cada línea de código!
-
-<p align="left">
-  <a href="https://github.com/ArturoVela/ApiRest" target="_blank"> <img src="https://img.shields.io/badge/🔗-API_Rest_Académica-blue?style=for-the-badge&logo=spring" alt="API Rest Académica" />
-  </a> <br/>
-  <em>Descripción breve: Una API REST con Spring Boot para gestionar entidades académicas (Alumnos, Cursos, etc.).</em> 
-  <br/><br/>
-  <a href="https://github.com/ArturoVela/Colmena-" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-Colmena_Project-1f8b4c?style=for-the-badge&logo=github" alt="Colmena Project" />
-  </a> <br/>
-  <em>Descripción breve: Sistema de ventas hoteleria </em>
-  <br/><br/>
-  <a href="https://github.com/ArturoVela/Pachas" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-Pachas_Project-1f8b4c?style=for-the-badge&logo=github" alt="Pachas Project" />
-  </a> <br/>
-  <em>Descripción breve: Página web de Pacha's Café</em>
-  <br/><br/>
-  <a href="https://github.com/ArturoVela/Sistemas-operativo" target="_blank">
-    <img src="https://img.shields.io/badge/🔗-Proyecto_Sistemas_Operativos-lightgrey?style=for-the-badge&logo=c" alt="Proyecto Sistemas Operativos" />
-  </a> <br/>
-  <em>Descripción breve: Página web de municipio de Rioja</em>
-</p>
-
----
-
-## 🤝 Buscando Colaborar
-
-¡Estoy activamente buscando oportunidades para colaborar! Si tienes un proyecto interesante (especialmente en áreas de desarrollo web, Java/Spring, o código abierto) donde creas que puedo aportar o aprender, ¡me encantaría conectar contigo! 💬
-
----
-
-## 📬 Contacto
-
-Puedes encontrarme en:
-
-* 📧 **Email:** [arturovela70@gmail.com](mailto:arturovela70@gmail.com)
-* 💬 **Discord:** `maldadpuramorada`
-* 💼 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/arturo-vela-aa81242ba/) 
-
----
-
-## 🌱 Más Sobre Mí
-
-* 📈 Me motiva ver mi progreso y aprender algo nuevo cada día.
-* 🎮 Soy un gran aficionado a los videojuegos, no solo jugándolos, sino también sintiendo curiosidad por su desarrollo técnico.
-* 📚 Disfruto leyendo sobre nuevas tecnologías, buenas prácticas de programación y crecimiento personal.
-
----
-
-¡Gracias por visitar mi perfil! 😊 Siéntete libre de explorar mis repositorios o enviarme un mensaje.
+  
+  <i>"El código es poesía lógica."</i> 💭
+  
+</div>
