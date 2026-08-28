@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">Selected systems by Arturo Vela</title>
+  <desc id="desc">Three dark project cards for ApiRest, Porta, and Sass-Ropas, with their primary technology flows.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#58A6FF"/><stop offset=".55" stop-color="#A371F7"/><stop offset="1" stop-color="#3FB950"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#30363D" stroke-width="1" opacity=".18"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="408" rx="22" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="408" rx="22" fill="url(#grid)"/>
+  <rect x="36" y="31" width="5" height="18" rx="2.5" fill="#3FB950" filter="url(#glow)"/>
+  <text x="56" y="46" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="1.5">SELECTED SYSTEMS / 03</text>
+  <text x="1164" y="46" fill="#8B949E" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13">SOURCE-VERIFIED PROJECTS</text>
+  <rect x="36" y="66" width="1128" height="2" rx="1" fill="url(#edge)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <g transform="translate(36 92)">
+      <rect width="352" height="276" rx="16" fill="#161B22" stroke="#30363D"/>
+      <text x="22" y="34" fill="#3FB950" font-size="13" font-weight="700">01 / BACKEND</text><circle cx="318" cy="29" r="5" fill="#3FB950"/>
+      <text x="22" y="79" fill="#F0F6FC" font-family="ui-sans-serif, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="700">ApiRest</text>
+      <text x="22" y="108" fill="#8B949E" font-size="14">Academic management API</text>
+      <g transform="translate(22 139)"><rect width="86" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><rect x="110" width="106" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><rect x="238" width="70" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><text x="43" y="22" fill="#58A6FF" text-anchor="middle" font-size="12">REST</text><text x="163" y="22" fill="#F0F6FC" text-anchor="middle" font-size="12">SPRING</text><text x="273" y="22" fill="#A371F7" text-anchor="middle" font-size="12">JPA</text></g>
+      <path d="M24 210H102L126 190H226L250 210H328" fill="none" stroke="#58A6FF" stroke-width="2"/><circle cx="24" cy="210" r="4" fill="#3FB950"/><circle cx="126" cy="190" r="4" fill="#A371F7"/><circle cx="328" cy="210" r="4" fill="#58A6FF"/>
+      <text x="22" y="251" fill="#8B949E" font-size="12">JAVA 17 · MYSQL · MAVEN</text>
+    </g>
+    <g transform="translate(424 92)">
+      <rect width="352" height="276" rx="16" fill="#161B22" stroke="#30363D"/>
+      <text x="22" y="34" fill="#58A6FF" font-size="13" font-weight="700">02 / WEB</text><circle cx="318" cy="29" r="5" fill="#58A6FF"/>
+      <text x="22" y="79" fill="#F0F6FC" font-family="ui-sans-serif, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="700">Porta</text>
+      <text x="22" y="108" fill="#8B949E" font-size="14">Professional portfolio</text>
+      <g transform="translate(22 139)"><rect width="86" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><rect x="110" width="106" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><rect x="238" width="70" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><text x="43" y="22" fill="#F0F6FC" text-anchor="middle" font-size="12">NEXT</text><text x="163" y="22" fill="#58A6FF" text-anchor="middle" font-size="12">REACT</text><text x="273" y="22" fill="#A371F7" text-anchor="middle" font-size="12">CSS</text></g>
+      <path d="M24 210H74L98 190H174L198 210H256L280 190H328" fill="none" stroke="#A371F7" stroke-width="2"/><circle cx="24" cy="210" r="4" fill="#58A6FF"/><circle cx="174" cy="190" r="4" fill="#A371F7"/><circle cx="328" cy="190" r="4" fill="#3FB950"/>
+      <text x="22" y="251" fill="#8B949E" font-size="12">JAVASCRIPT · BOOTSTRAP</text>
+    </g>
+    <g transform="translate(812 92)">
+      <rect width="352" height="276" rx="16" fill="#161B22" stroke="#30363D"/>
+      <text x="22" y="34" fill="#A371F7" font-size="13" font-weight="700">03 / OPERATIONS</text><circle cx="318" cy="29" r="5" fill="#A371F7"/>
+      <text x="22" y="79" fill="#F0F6FC" font-family="ui-sans-serif, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="700">Sass-Ropas</text>
+      <text x="22" y="108" fill="#8B949E" font-size="14">Retail operations interface</text>
+      <g transform="translate(22 139)"><rect width="86" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><rect x="110" width="106" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><rect x="238" width="70" height="34" rx="8" fill="#0D1117" stroke="#30363D"/><text x="43" y="22" fill="#A371F7" text-anchor="middle" font-size="12">PHP</text><text x="163" y="22" fill="#58A6FF" text-anchor="middle" font-size="12">REST</text><text x="273" y="22" fill="#F0F6FC" text-anchor="middle" font-size="12">UI</text></g>
+      <path d="M24 210H88L112 190H210L234 210H328" fill="none" stroke="#3FB950" stroke-width="2"/><circle cx="24" cy="210" r="4" fill="#A371F7"/><circle cx="112" cy="190" r="4" fill="#58A6FF"/><circle cx="328" cy="210" r="4" fill="#3FB950"/>
+      <text x="22" y="251" fill="#8B949E" font-size="12">JAVASCRIPT · BOOTSTRAP</text>
+    </g>
+  </g>
+</svg>

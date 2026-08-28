@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Arturo Vela — Backend and Full-Stack Developer</title>
+  <desc id="desc">A dark systems map connects a Next.js client to a Spring Boot API, Java service, and MySQL data layer.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".58" stop-color="#A371F7"/><stop offset="1" stop-color="#3FB950"/>
+    </linearGradient>
+    <style>
+      @media (prefers-reduced-motion: no-preference) {
+        .trace { stroke-dasharray: 7 7; animation: flow 3.2s linear infinite; }
+        .status { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+      }
+      @keyframes flow { to { stroke-dashoffset: -56; } }
+      @keyframes pulse { 50% { opacity: .45; transform: scale(.72); } }
+    </style>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#30363D" stroke-width="1" opacity="0.24"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10Z" fill="#58A6FF"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="url(#grid)"/>
+  <rect x="24" y="1" width="1152" height="3" rx="1.5" fill="url(#accent)"/>
+  <circle class="status" cx="54" cy="48" r="6" fill="#3FB950"/>
+  <text x="72" y="54" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" letter-spacing="1.8">ARTURO.VELA / SYSTEMS PROFILE</text>
+  <text x="1146" y="54" fill="#3FB950" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15">FOCUS / BACKEND</text>
+  <text x="54" y="126" fill="#F0F6FC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="52" font-weight="700" letter-spacing="-1">Arturo Vela</text>
+  <text x="54" y="169" fill="url(#accent)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="23" font-weight="600">Backend &amp; Full-Stack Developer</text>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <line class="trace" x1="274" y1="244" x2="318" y2="244" stroke="#58A6FF" stroke-width="2" marker-end="url(#arrow)"/>
+    <line class="trace" x1="550" y1="244" x2="594" y2="244" stroke="#A371F7" stroke-width="2" marker-end="url(#arrow)"/>
+    <line class="trace" x1="826" y1="244" x2="870" y2="244" stroke="#3FB950" stroke-width="2" marker-end="url(#arrow)"/>
+    <g transform="translate(54 202)">
+      <rect width="220" height="84" rx="12" fill="#161B22" stroke="#30363D"/>
+      <text x="18" y="28" fill="#8B949E" font-size="13" letter-spacing="1.4">CLIENT</text>
+      <text x="18" y="59" fill="#F0F6FC" font-size="21" font-weight="600">Next.js</text>
+      <circle cx="194" cy="22" r="5" fill="#3FB950"/>
+    </g>
+    <g transform="translate(330 202)">
+      <rect width="220" height="84" rx="12" fill="#161B22" stroke="#30363D"/>
+      <text x="18" y="28" fill="#8B949E" font-size="13" letter-spacing="1.4">API</text>
+      <text x="18" y="59" fill="#F0F6FC" font-size="21" font-weight="600">Spring Boot</text>
+      <circle cx="194" cy="22" r="5" fill="#3FB950"/>
+    </g>
+    <g transform="translate(606 202)">
+      <rect width="220" height="84" rx="12" fill="#161B22" stroke="#30363D"/>
+      <text x="18" y="28" fill="#8B949E" font-size="13" letter-spacing="1.4">SERVICE</text>
+      <text x="18" y="59" fill="#F0F6FC" font-size="21" font-weight="600">Java 17</text>
+      <circle cx="194" cy="22" r="5" fill="#3FB950"/>
+    </g>
+    <g transform="translate(882 202)">
+      <rect width="264" height="84" rx="12" fill="#161B22" stroke="#30363D"/>
+      <text x="18" y="28" fill="#8B949E" font-size="13" letter-spacing="1.4">DATA</text>
+      <text x="18" y="59" fill="#F0F6FC" font-size="21" font-weight="600">MySQL</text>
+      <circle cx="238" cy="22" r="5" fill="#3FB950"/>
+    </g>
+  </g>
+  <text x="54" y="329" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">TARAPOTO, PERU · UTC−5</text>
+  <text x="1146" y="329" fill="#8B949E" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">SYSTEMS ENGINEERING · UNSM</text>
+</svg>

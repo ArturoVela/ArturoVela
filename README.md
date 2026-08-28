@@ -1,134 +1,64 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="Arturo Vela, Backend and Full-Stack Developer. An animated systems topology connects a Next.js client, Spring Boot API, Java service, and MySQL data layer.">
+</picture>
 
-<div align="center">
-  
-  <!-- Header with animated text -->
-  <a href="https://github.com/ArturoVela">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=71b7ff&center=true&vCenter=true&width=435&lines=Hola!+Soy+Arturo+Vela+👋;Desarrollador+Backend+%26+Web;Spring+Boot+%7C+Java+%7C+NodeJS;Pasión+por+el+Código+y+la+Seguridad+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+reliable+APIs;Shipping+modern+web+products;Learning+Docker+%26+application+security">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+reliable+APIs;Shipping+modern+web+products;Learning+Docker+%26+application+security" width="720" alt="Building reliable APIs, shipping modern web products, and learning Docker and application security.">
+  </picture>
+</p>
 
-  <!-- Social Badges with animations -->
-  <p align="center">
-    <a href="https://github.com/ArturoVela">
-      <img src="https://img.shields.io/github/followers/ArturoVela?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-    <a href="mailto:tu-email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/tu-usuario">
-      <img src="https://img.shields.io/badge/LinkedIn-Conecta-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+<p align="center">
+  Systems Engineering @ <strong>UNSM</strong> &nbsp;·&nbsp; Tarapoto, Peru &nbsp;·&nbsp; UTC−5
+</p>
 
-  <!-- Visitor Counter -->
-  <a href="https://github.com/ArturoVela">
-    <img src="https://komarev.com/ghpvc/?username=ArturoVela&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  </a>
-  
-</div>
+## Tech stack
 
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cmaven%2Cmysql%2Cjs%2Creact%2Cnextjs%2Chtml%2Ccss%2Cgit%2Cgithub%2Clinux&amp;theme=dark&amp;perline=13">
+    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cmaven%2Cmysql%2Cjs%2Creact%2Cnextjs%2Chtml%2Ccss%2Cgit%2Cgithub%2Clinux&amp;theme=light&amp;perline=13" alt="Java, Spring, Hibernate, Maven, MySQL, JavaScript, React, Next.js, HTML, CSS, Git, GitHub, and Linux." width="780">
+  </picture>
+</p>
 
-<!-- Wave divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center"><code>currently learning → Docker · microservices · application security</code></p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
-      
-      ### 👨‍💻 Sobre Mí (About Me)
+## Selected systems
 
-      ¡Hola! Soy **Arturo**, estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Martín (UNSM)** 🇵🇪.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/showcase-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/showcase-light.svg">
+  <img src="./assets/showcase-light.svg" width="100%" alt="Three selected projects: ApiRest, a Java and Spring Boot academic management API; Porta, a Next.js and React portfolio; and Sass-Ropas, a PHP retail operations interface.">
+</picture>
 
-      Un entusiasta del código que transforma café ☕ en software seguro y eficiente.
+<p align="center">
+  <a href="https://github.com/ArturoVela/ApiRest"><strong>01 / ApiRest ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ArturoVela/Porta"><strong>02 / Porta ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ArturoVela/Sass-Ropas"><strong>03 / Sass-Ropas ↗</strong></a>
+</p>
 
-      - 🔭 **Projectos:** Creando APIs robustas y Web Apps modernas.
-      - 🌱 **Aprendiendo:** Microservicios, Docker, y Ciberseguridad.
-      - ⚡ **Fun fact:** Me encanta desarmar cosas para ver cómo funcionan (software y hardware).
-      - 🎯 **Objetivo:** Convertirme en un Desarrollador Full Stack Senior.
-      
-      > *"La simplicidad es la máxima sofisticación."*
-      
-    </td>
-    <td width="45%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
-    </td>
-  </tr>
-</table>
+## GitHub signal
 
-<!-- Skills Section with animated/techy header -->
-<h3 align="center">🛠️ Arsenal Tecnológico</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven&perline=5" alt="Backend Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react&perline=5" alt="Frontend Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&perline=5" alt="Tools" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArturoVela&amp;theme=github_dark&amp;animation=rise">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArturoVela&amp;theme=github&amp;animation=rise" width="495" alt="Public GitHub statistics for Arturo Vela.">
+  </picture>
+</p>
 
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturoVela&amp;theme=github_dark&amp;animation=draw">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturoVela&amp;theme=github&amp;animation=draw" width="495" alt="Programming languages used across Arturo Vela's public repositories.">
+  </picture>
+</p>
 
-<!-- Stats Section in a Grid -->
-<div align="center">
-  
-  <h3>📊 GitHub Stats & Analytics</h3>
-  
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoVela&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoVela&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Languages" />
-  </p>
-  
-  <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoVela&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" height="150" />
-  </p>
-  
-</div>
-
-<!-- Joke & Quote Section -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <b>😂 Programmer Humor</b><br/><br/>
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="90%" />
-    </td>
-    <td align="center" width="50%">
-      <b>💡 Daily Wisdom</b><br/><br/>
-      <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=typewriter" alt="Random Quote" width="90%" />
-    </td>
-  </tr>
-</table>
-
-### 🚀 Proyectos Destacados (Showcase)
-
-<table border="0" width="100%">
-  <tr>
-    <td width="60%">
-      
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **☕ [Pachas](https://github.com/ArturoVela/Pachas)** | E-commerce premium para café de especialidad. | `JS` `HTML` |
-| **🏨 [Colmena-](https://github.com/ArturoVela/Colmena-)** | Sistema integral de gestión hotelera. | `HTML` `CSS` |
-| **🔌 [ApiRest](https://github.com/ArturoVela/ApiRest)** | Backend sólido para gestión académica. | `Java` `Spring` |
-| **👗 [Sass-Ropas](https://github.com/ArturoVela/Sass-Ropas)** | Sistema de inventario y ventas retail. | `PHP` `MySQL` |
-| **💌 [San Valentin](https://github.com/ArturoVela/San-valentin-Patrick)** | Experiencia web interactiva. | `JS` `CSS` |
-
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-profile-trophies.vercel.app/?username=ArturoVela&theme=tokyonight&no-frame=true&no-bg=true&column=1" alt="Trophies" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <h3>📈 Frecuencia de Código</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoVela&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" />
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+<p align="center">
+  <strong>Open to backend and full-stack opportunities.</strong><br>
+  <sub>Build useful systems. Keep the interface clear. Make the evidence visible.</sub>
+</p>
