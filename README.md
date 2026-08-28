@@ -52,11 +52,10 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturoVela&amp;theme=github_dark&amp;animation=draw">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArturoVela&amp;theme=github&amp;animation=draw" width="495" alt="Programming languages used across Arturo Vela's public repositories.">
-  </picture>
+  <img src="./assets/metrics-languages.svg" width="480" alt="Public repository language distribution by source size: JavaScript 57.35%, PHP 23.95%, SCSS 11%, Stylus 5.31%, and Java 2.39%.">
 </p>
+
+<p align="center"><sub>Public repositories only · source-size snapshot generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub></p>
 
 <p align="center">
   <strong>Open to backend and full-stack opportunities.</strong><br>
