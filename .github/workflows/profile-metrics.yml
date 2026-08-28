@@ -1,0 +1,43 @@
+name: Refresh profile metrics
+
+on:
+  schedule:
+    - cron: "17 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Generate dark statistics card
+        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=161B22&title_color=58A6FF&text_color=F0F6FC&icon_color=3FB950&border_color=30363D"
+          path: assets/github-stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate light statistics card
+        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&include_all_commits=true&bg_color=F6F8FA&title_color=0969DA&text_color=24292F&icon_color=1A7F37&border_color=D0D7DE"
+          path: assets/github-stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats-dark.svg assets/github-stats-light.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh profile metrics"
+          git push
