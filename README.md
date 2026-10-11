@@ -1,63 +1,67 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Arturo Vela, Backend and Full-Stack Developer. An animated systems topology connects a Next.js client, Spring Boot API, Java service, and MySQL data layer.">
+  <img src="./assets/hero-light.svg" width="100%" alt="Arturo Vela — Full-Stack and Product Developer. Current stack: React, Cloudflare Workers, TypeScript and SQL.">
 </picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+reliable+APIs;Shipping+modern+web+products;Learning+Docker+%26+application+security">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=900&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=45&amp;lines=Building+reliable+APIs;Shipping+modern+web+products;Learning+Docker+%26+application+security" width="720" alt="Building reliable APIs, shipping modern web products, and learning Docker and application security.">
-  </picture>
-</p>
+I build web products and internal systems, connecting interfaces, data and deployment around real workflows.
 
-<p align="center">
-  Systems Engineering @ <strong>UNSM</strong> &nbsp;·&nbsp; Tarapoto, Peru &nbsp;·&nbsp; UTC−5
-</p>
+Based in **Tarapoto, Peru · UTC−5**. Systems Engineering student at **UNSM**. Open to full-stack roles, freelance projects and technical collaboration.
 
-## Tech stack
+[Portfolio](https://velaarturo.com/en/) · [CV](https://cv.velaarturo.com/) · [Technical articles](https://blog.velaarturo.com/en/articles) · [Contact](mailto:dev@velaarturo.com)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cmaven%2Cmysql%2Cjs%2Creact%2Cnextjs%2Chtml%2Ccss%2Cgit%2Cgithub%2Clinux&amp;theme=dark&amp;perline=13">
-    <img src="https://skillicons.dev/icons?i=java%2Cspring%2Chibernate%2Cmaven%2Cmysql%2Cjs%2Creact%2Cnextjs%2Chtml%2Ccss%2Cgit%2Cgithub%2Clinux&amp;theme=light&amp;perline=13" alt="Java, Spring, Hibernate, Maven, MySQL, JavaScript, React, Next.js, HTML, CSS, Git, GitHub, and Linux." width="780">
-  </picture>
-</p>
+## Selected work
 
-<p align="center"><code>currently learning → Docker · microservices · application security</code></p>
+### Nieto Import
 
-## Selected systems
+Internal tools for **Nieto Import and Agromaf**: labels, documentation, corporate signatures and management forms. Full-stack development and product evolution, with permissions and web/mobile access.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/showcase-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/showcase-light.svg">
-  <img src="./assets/showcase-light.svg" width="100%" alt="Three selected projects: ApiRest, a Java and Spring Boot academic management API; Porta, a Next.js and React portfolio; and Sass-Ropas, a PHP retail operations interface.">
-</picture>
+**Next.js · React · TypeScript · Supabase · Capacitor**
 
-<p align="center">
-  <a href="https://github.com/ArturoVela/ApiRest"><strong>01 / ApiRest ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/ArturoVela/Porta"><strong>02 / Porta ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/ArturoVela/Sass-Ropas"><strong>03 / Sass-Ropas ↗</strong></a>
-</p>
+[Public case study](https://velaarturo.com/en/projects/nieto-import)
 
-## GitHub signal
+### Second Brain
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArturoVela&amp;theme=github_dark&amp;animation=rise">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArturoVela&amp;theme=github&amp;animation=rise" width="495" alt="Public GitHub statistics for Arturo Vela.">
-  </picture>
-</p>
+A private workspace for knowledge, tasks, projects and versioned files. Connects search and relationships with editorial publishing to my portfolio, blog and CV.
 
-<p align="center">
-  <img src="./assets/metrics-languages.svg" width="480" alt="Public repository language distribution by source size: JavaScript 57.35%, PHP 23.95%, SCSS 11%, Stylus 5.31%, and Java 2.39%.">
-</p>
+**React · TypeScript · Mantine · Cloudflare Workers · D1 · R2 · Queues**
 
-<p align="center"><sub>Public repositories only · source-size snapshot generated with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></sub></p>
+[Public case study](https://velaarturo.com/en/projects/second-brain)
 
-<p align="center">
-  <strong>Open to backend and full-stack opportunities.</strong><br>
-  <sub>Build useful systems. Keep the interface clear. Make the evidence visible.</sub>
-</p>
+### Vela Ventas
+
+Retail operations for Peruvian businesses: sales, purchases, stock by branch, daily cash closing, Kardex and audit trails. Business permissions and server-side data isolation.
+
+**React · TypeScript · Chakra UI · Hono · Cloudflare Workers · D1**
+
+[Product](https://ventas.velaarturo.com/)
+
+### Explora San Martín
+
+A tourism catalog with **164 sourced places**, a MapLibre map, server-rendered profiles and a personal passport. Product development combines traceable content with protected editorial workflows.
+
+**React Router · React · TypeScript · Chakra UI · Workers · D1 · R2 · MapLibre**
+
+[Try the app](https://explora.velaarturo.com/) · [Case study](https://velaarturo.com/en/projects/explora-san-martin)
+
+## Stack in current projects
+
+| Area | Tools |
+| --- | --- |
+| Interfaces | React, TypeScript, Next.js, React Router, Chakra UI, Mantine |
+| APIs and data | Cloudflare Workers, Hono, SQL, D1, Supabase |
+| Files and background work | R2, Queues, Worker Service Bindings |
+| Verification | Vitest, Playwright, type checking, Git |
+
+## Public code
+
+- [Porta](https://github.com/ArturoVela/Porta) — portfolio built with React, Vite, Chakra UI and Cloudflare Workers; content supplied by Second Brain.
+- [ApiRest](https://github.com/ArturoVela/ApiRest) — Java 17 and Spring Boot API for academic management.
+
+## Tools and writing
+
+[Browse my apps](https://velaarturo.com/en/dev#apps): document, image, text, color and coordination utilities. [Cotiza](https://cotiza.velaarturo.com/), [PDF](https://pdf.velaarturo.com/) and [Foto](https://foto.velaarturo.com/) are examples.
+
+[Read how Cotiza was built](https://blog.velaarturo.com/en/articles/como-se-creo-cotiza): decimal calculations, recoverable drafts and document sharing.
+
+**Have a product or process to improve?** [Let's talk](https://velaarturo.com/en/contact).
