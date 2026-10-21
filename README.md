@@ -1,67 +1,90 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Arturo Vela — Full-Stack and Product Developer. Current stack: React, Cloudflare Workers, TypeScript and SQL.">
-</picture>
+<p>
+<a href="https://velaarturo.com/">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <img src="./assets/hero-light.svg" width="100%" alt="Arturo Vela — Desarrollo web y de producto. React, TypeScript, Cloudflare y SQL. Visita mi portafolio.">
+  </picture>
+</a>
+</p>
 
-I build web products and internal systems, connecting interfaces, data and deployment around real workflows.
+Construyo productos web y sistemas internos: conecto interfaces, datos y despliegue alrededor de procesos reales.
 
-Based in **Tarapoto, Peru · UTC−5**. Systems Engineering student at **UNSM**. Open to full-stack roles, freelance projects and technical collaboration.
+Desde **Tarapoto, Perú · UTC−5**. Estudiante de Ingeniería de Sistemas en la **UNSM**. Disponible para roles full-stack, proyectos freelance y colaboración técnica.
 
-[Portfolio](https://velaarturo.com/en/) · [CV](https://cv.velaarturo.com/) · [Technical articles](https://blog.velaarturo.com/en/articles) · [Contact](mailto:dev@velaarturo.com)
+## Principal
 
-## Selected work
+<p>
+  <a href="https://velaarturo.com/"><img src="./assets/link-portfolio.svg" width="248" height="120" alt="Mi portafolio — Proyectos, perfil y contacto. Abrir velaarturo.com."></a>
+</p>
+
+[CV](https://cv.velaarturo.com/) · [Artículos técnicos](https://blog.velaarturo.com/es/articulos) · [Hablemos](https://velaarturo.com/es/contacto) · [Correo](mailto:dev@velaarturo.com)
+
+## SaaS
+
+Productos para organizar finanzas, negocios y operaciones. Algunas aplicaciones requieren iniciar sesión.
+
+<!-- Los enlaces envuelven cada SVG: GitHub no permite interacción dentro de las imágenes. -->
+<p>
+  <a href="https://finanzas.velaarturo.com/"><img src="./assets/link-finanzas.svg" width="248" height="120" alt="Finanzas — Cuentas, movimientos y metas. Abrir finanzas.velaarturo.com."></a>
+  <a href="https://ventas.velaarturo.com/"><img src="./assets/link-ventas.svg" width="248" height="120" alt="Ventas — Ventas, inventario y caja. Abrir ventas.velaarturo.com."></a>
+  <a href="https://agua.velaarturo.com/"><img src="./assets/link-agua.svg" width="248" height="120" alt="Agua — Monitoreo y control del agua. Abrir agua.velaarturo.com."></a>
+  <a href="https://agro.velaarturo.com/"><img src="./assets/link-agro.svg" width="248" height="120" alt="Agro — Tu campo, tus cuentas. Abrir agro.velaarturo.com."></a>
+  <a href="https://bc.velaarturo.com/"><img src="./assets/link-bc.svg" width="248" height="120" alt="Vela Entradas — Entradas digitales para eventos. Abrir bc.velaarturo.com."></a>
+  <a href="https://tarjetas.velaarturo.com/"><img src="./assets/link-tarjetas.svg" width="248" height="120" alt="Tarjetas — Fidelización para tu negocio. Abrir tarjetas.velaarturo.com."></a>
+</p>
+
+## Proyectos destacados
 
 ### Nieto Import
 
-Internal tools for **Nieto Import and Agromaf**: labels, documentation, corporate signatures and management forms. Full-stack development and product evolution, with permissions and web/mobile access.
+Herramientas internas para **Nieto Import y Agromaf**: etiquetas, documentación, firmas corporativas y formularios de gestión. Desarrollo full-stack y evolución del producto, con permisos y acceso web y móvil.
 
 **Next.js · React · TypeScript · Supabase · Capacitor**
 
-[Public case study](https://velaarturo.com/en/projects/nieto-import)
+[Ver caso de estudio](https://velaarturo.com/es/proyectos/nieto-import)
 
 ### Second Brain
 
-A private workspace for knowledge, tasks, projects and versioned files. Connects search and relationships with editorial publishing to my portfolio, blog and CV.
+Espacio privado para conocimiento, tareas, proyectos y archivos versionados. Conecta búsqueda y relaciones con la publicación editorial en mi portafolio, blog y CV.
 
 **React · TypeScript · Mantine · Cloudflare Workers · D1 · R2 · Queues**
 
-[Public case study](https://velaarturo.com/en/projects/second-brain)
+[Ver caso de estudio](https://velaarturo.com/es/proyectos/second-brain)
 
 ### Vela Ventas
 
-Retail operations for Peruvian businesses: sales, purchases, stock by branch, daily cash closing, Kardex and audit trails. Business permissions and server-side data isolation.
+Operaciones comerciales para negocios peruanos: ventas, compras, stock por sucursal, cierre diario de caja, Kardex y trazabilidad. Permisos por negocio y aislamiento de datos en el servidor.
 
 **React · TypeScript · Chakra UI · Hono · Cloudflare Workers · D1**
 
-[Product](https://ventas.velaarturo.com/)
+[Abrir Vela Ventas](https://ventas.velaarturo.com/)
 
 ### Explora San Martín
 
-A tourism catalog with **164 sourced places**, a MapLibre map, server-rendered profiles and a personal passport. Product development combines traceable content with protected editorial workflows.
+Catálogo turístico con **164 lugares documentados**, mapa MapLibre, fichas renderizadas en el servidor y pasaporte personal. Combina contenido trazable con flujos editoriales protegidos.
 
 **React Router · React · TypeScript · Chakra UI · Workers · D1 · R2 · MapLibre**
 
-[Try the app](https://explora.velaarturo.com/) · [Case study](https://velaarturo.com/en/projects/explora-san-martin)
+[Explorar la app](https://explora.velaarturo.com/) · [Ver caso de estudio](https://velaarturo.com/es/proyectos/explora-san-martin)
 
-## Stack in current projects
+## Stack actual
 
-| Area | Tools |
-| --- | --- |
-| Interfaces | React, TypeScript, Next.js, React Router, Chakra UI, Mantine |
-| APIs and data | Cloudflare Workers, Hono, SQL, D1, Supabase |
-| Files and background work | R2, Queues, Worker Service Bindings |
-| Verification | Vitest, Playwright, type checking, Git |
+- **Interfaces:** React, TypeScript, Next.js, React Router, Chakra UI y Mantine.
+- **APIs y datos:** Cloudflare Workers, Hono, SQL, D1 y Supabase.
+- **Archivos y tareas en segundo plano:** R2, Queues y Worker Service Bindings.
+- **Verificación:** Vitest, Playwright, comprobación de tipos y Git.
 
-## Public code
+## Código público
 
-- [Porta](https://github.com/ArturoVela/Porta) — portfolio built with React, Vite, Chakra UI and Cloudflare Workers; content supplied by Second Brain.
-- [ApiRest](https://github.com/ArturoVela/ApiRest) — Java 17 and Spring Boot API for academic management.
+- [Porta](https://github.com/ArturoVela/Porta) — portafolio con React, Vite, Chakra UI y Cloudflare Workers; contenido desde Second Brain.
+- [ApiRest](https://github.com/ArturoVela/ApiRest) — API de gestión académica con Java 17 y Spring Boot.
 
-## Tools and writing
+## Herramientas y artículos
 
-[Browse my apps](https://velaarturo.com/en/dev#apps): document, image, text, color and coordination utilities. [Cotiza](https://cotiza.velaarturo.com/), [PDF](https://pdf.velaarturo.com/) and [Foto](https://foto.velaarturo.com/) are examples.
+[Explora mis apps](https://velaarturo.com/dev#apps): utilidades de documentos, imágenes, texto, color y coordinación. Algunas son [Cotiza](https://cotiza.velaarturo.com/), [PDF](https://pdf.velaarturo.com/) y [Foto](https://foto.velaarturo.com/).
 
-[Read how Cotiza was built](https://blog.velaarturo.com/en/articles/como-se-creo-cotiza): decimal calculations, recoverable drafts and document sharing.
+[Cómo se creó Cotiza](https://blog.velaarturo.com/es/articulos/como-se-creo-cotiza): cálculos decimales, borradores recuperables y documentos compartidos.
 
-**Have a product or process to improve?** [Let's talk](https://velaarturo.com/en/contact).
+**¿Tienes un producto o proceso por mejorar?** [Hablemos](https://velaarturo.com/es/contacto).
