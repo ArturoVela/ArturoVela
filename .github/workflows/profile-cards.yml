@@ -1,0 +1,110 @@
+name: Actualizar actividad del perfil
+
+on:
+  schedule:
+    - cron: '23 11 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/profile-cards.yml]
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      # SVG locales: el README conserva la última versión si un proveedor falla.
+      - name: Estadísticas · claro
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&locale=es&hide_border=true&border_radius=0&bg_color=F5F6FA&title_color=3044E8&text_color=263047&icon_color=E06447&disable_animations=true&custom_title=Trabajo%20en%20GitHub
+          path: assets/github-stats-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Estadísticas · oscuro
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&locale=es&hide_border=true&border_radius=0&bg_color=0E1420&title_color=91ADFF&text_color=E7ECF5&icon_color=F18B72&disable_animations=true&custom_title=Trabajo%20en%20GitHub
+          path: assets/github-stats-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Lenguajes · claro
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&locale=es&hide_border=true&border_radius=0&bg_color=F5F6FA&title_color=3044E8&text_color=263047&disable_animations=true&custom_title=Lenguajes%20del%20c%C3%B3digo%20p%C3%BAblico
+          path: assets/github-languages-light.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Lenguajes · oscuro
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&locale=es&hide_border=true&border_radius=0&bg_color=0E1420&title_color=91ADFF&text_color=E7ECF5&disable_animations=true&custom_title=Lenguajes%20del%20c%C3%B3digo%20p%C3%BAblico
+          path: assets/github-languages-dark.svg
+          token: ${{ github.token }}
+          fail_on_error: true
+
+      - name: Rachas · claro
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1
+        with:
+          options: user=${{ github.repository_owner }}&locale=es&timezone=America%2FLima&hide_border=true&border_radius=0&background=F5F6FA&ring=3044E8&fire=E06447&currStreakNum=263047&sideNums=263047&currStreakLabel=3044E8&sideLabels=263047&dates=525D72&disable_animations=true
+          path: assets/github-streak-light.svg
+          token: ${{ github.token }}
+
+      - name: Rachas · oscuro
+        uses: DenverCoder1/github-readme-streak-stats@125aaaf200620410446ebfa51897fca3607e04fd # v1
+        with:
+          options: user=${{ github.repository_owner }}&locale=es&timezone=America%2FLima&hide_border=true&border_radius=0&background=0E1420&ring=91ADFF&fire=F18B72&currStreakNum=E7ECF5&sideNums=E7ECF5&currStreakLabel=91ADFF&sideLabels=E7ECF5&dates=AAB5C6&disable_animations=true
+          path: assets/github-streak-dark.svg
+          token: ${{ github.token }}
+
+      - name: Calendario de contribuciones · Snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake-light.svg?color_snake=%23E06447&color_dots=%23EDF0F6,%23D0DAFF,%2391ADFF,%23536DE2,%233044E8
+            assets/github-snake-dark.svg?color_snake=%23F18B72&color_dots=%23192334,%23263565,%233B50A0,%236F8CE8,%2391ADFF
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Validar SVG antes de publicar
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          for component in ('stats', 'languages', 'streak', 'snake'):
+              for theme in ('light', 'dark'):
+                  path = Path(f'assets/github-{component}-{theme}.svg')
+                  root = ET.parse(path).getroot()
+                  assert root.tag == '{http://www.w3.org/2000/svg}svg', path
+                  text = ''.join(root.itertext()).lower()
+                  for error in ('something went wrong', 'could not fetch', 'rate limit exceeded'):
+                      assert error not in text, (path, error)
+          PY
+
+      - name: Guardar tarjetas actualizadas
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-*.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore(profile): refresh GitHub activity cards'
+            git push
+          fi
