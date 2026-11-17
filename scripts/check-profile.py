@@ -19,9 +19,14 @@ class ProfileImages(HTMLParser):
             if source.startswith('./'):
                 path = ROOT / source
                 assert path.is_file(), f'Archivo ausente: {source}'
-                root = ET.parse(path).getroot()
-                assert root.tag == '{http://www.w3.org/2000/svg}svg', source
-                assert not root.findall('.//{http://www.w3.org/2000/svg}script'), source
+                if path.suffix == '.svg':
+                    root = ET.parse(path).getroot()
+                    assert root.tag == '{http://www.w3.org/2000/svg}svg', source
+                    assert not root.findall('.//{http://www.w3.org/2000/svg}script'), source
+                else:
+                    data = path.read_bytes()
+                    assert path.suffix == '.jpg' and data.startswith(b'\xff\xd8\xff'), source
+                    assert data.endswith(b'\xff\xd9'), f'JPEG incompleto: {source}'
 
 
 if __name__ == '__main__':
@@ -37,4 +42,4 @@ if __name__ == '__main__':
     workflow = (ROOT / '.github/workflows/profile-cards.yml').read_text()
     for action in re.findall(r'uses: (\S+)', workflow):
         assert re.fullmatch(r'[^@]+@[0-9a-f]{40}', action), action
-    print('Perfil válido: imágenes accesibles, SVG completos y acciones fijadas por SHA.')
+    print('Perfil válido: referencias completas, SVG y JPEG válidos, acciones fijadas por SHA.')

@@ -22,12 +22,7 @@ Desde **Tarapoto, Perú · UTC−5**. Estudiante de Ingeniería de Sistemas en l
 ### 01 / Vela Entradas · Blockchain aplicada
 
 <a href="https://bc.velaarturo.com/blockchain">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-blockchain-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/project-blockchain-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-blockchain-dark.svg">
-    <img src="./assets/project-blockchain-light.svg" width="100%" alt="Vela Entradas: entrada digital, bloques enlazados y prueba verificable. Explorar blockchain.">
-  </picture>
+  <img src="./assets/screenshots/blockchain.jpg" width="100%" alt="Captura real de Vela Entradas: explorador blockchain con bloques recientes, enlaces entre bloques y raíz Merkle.">
 </a>
 
 Plataforma de entradas para asistentes y organizadores. Combina **QR temporales, canje único y transferencias** con un registro verificable de emisión, uso y revocación.
@@ -41,12 +36,7 @@ La blockchain privada enlaza bloques SHA-256 y pruebas Merkle. **OpenTimestamps 
 ### 02 / Agromaf · Catálogo y cotización
 
 <a href="https://web.agromaf.pe/">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-agromaf-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/project-agromaf-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-agromaf-dark.svg">
-    <img src="./assets/project-agromaf-light.svg" width="100%" alt="Agromaf: catálogo de productos, selección de artículos y cotización por WhatsApp. Visitar web.">
-  </picture>
+  <img src="./assets/screenshots/agromaf.jpg" width="100%" alt="Captura real de Agromaf: catálogo con fotografías de equipos, precios en soles, filtros y carrito de cotización.">
 </a>
 
 Web comercial para **Cia Agromaf y Cia Agromaf Perú**. Catálogo por empresa, marcas, fichas técnicas, comparación de productos y carrito de cotización que prepara la consulta por WhatsApp.
@@ -60,12 +50,7 @@ Administración de productos y contenido, permisos por empresa, fotografías en 
 ### 03 / Nieto Import · Operaciones y datos
 
 <a href="https://nieto.velaarturo.com/">
-  <picture>
-    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-nieto-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/project-nieto-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-nieto-dark.svg">
-    <img src="./assets/project-nieto-light.svg" width="100%" alt="NIETO: herramientas operativas, documentación y paneles de datos. Ver productos digitales.">
-  </picture>
+  <img src="./assets/screenshots/nieto.jpg" width="100%" alt="Captura real de NIETO Hub: presentación pública de DATANIETO y Nieto Import, con sus vistas previas y enlaces de acceso.">
 </a>
 
 Herramientas internas para **Nieto Import y Agromaf**: etiquetas, documentación, firmas corporativas y formularios de gestión, con permisos y acceso web y móvil.
