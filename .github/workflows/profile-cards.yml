@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&locale=es&hide_border=true&border_radius=0&bg_color=F5F6FA&title_color=3044E8&text_color=263047&icon_color=E06447&disable_animations=true&custom_title=Trabajo%20en%20GitHub
+          options: username=${{ github.repository_owner }}&card_width=450&show_icons=true&hide_rank=true&locale=es&hide_border=true&border_radius=0&bg_color=F5F6FA&title_color=3044E8&text_color=263047&icon_color=E06447&disable_animations=true&custom_title=Trabajo%20en%20GitHub
           path: assets/github-stats-light.svg
           token: ${{ github.token }}
           fail_on_error: true
@@ -36,7 +36,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&locale=es&hide_border=true&border_radius=0&bg_color=0E1420&title_color=91ADFF&text_color=E7ECF5&icon_color=F18B72&disable_animations=true&custom_title=Trabajo%20en%20GitHub
+          options: username=${{ github.repository_owner }}&card_width=450&show_icons=true&hide_rank=true&locale=es&hide_border=true&border_radius=0&bg_color=0E1420&title_color=91ADFF&text_color=E7ECF5&icon_color=F18B72&disable_animations=true&custom_title=Trabajo%20en%20GitHub
           path: assets/github-stats-dark.svg
           token: ${{ github.token }}
           fail_on_error: true
