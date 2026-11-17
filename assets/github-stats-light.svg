@@ -1,15 +1,15 @@
 
       <svg
-        width="304"
+        width="450"
         height="195"
-        viewBox="0 0 304 195"
+        viewBox="0 0 450 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Trabajo en GitHub, Rank: C</title>
-        <desc id="descId">Estrellas totales: 0, Commits totales  (El a&#241;o pasado) : 33, PRs totales: 1, Issues totales: 3, Contribuciones en (el a&#241;o pasado): 0</desc>
+        <desc id="descId">Estrellas totales: 0, Commits totales  (El a&#241;o pasado) : 34, PRs totales: 1, Issues totales: 3, Contribuciones en (el a&#241;o pasado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 235.5033536767425;
+        stroke-dashoffset: 235.39751700322734;
       }
     }
   
@@ -117,7 +117,7 @@
           rx="0"
           height="99%"
           stroke="#e4e2e2"
-          width="303"
+          width="449"
           fill="#F5F6FA"
           stroke-opacity="0"
         />
@@ -173,7 +173,7 @@
         x="274.01"
         y="12.5"
         data-testid="commits"
-      >33</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
