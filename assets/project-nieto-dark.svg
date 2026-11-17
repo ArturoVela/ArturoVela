@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="128" viewBox="0 0 760 128" role="img" aria-labelledby="title desc">
+<title id="title">Operaciones conectadas</title>
+<desc id="desc">Herramientas · Documentos · Datos. Ilustración del flujo del producto, en la identidad visual de Arturo Vela.</desc>
+<rect width="760" height="128" fill="#0E1420"/>
+<path d="M0 0v128" stroke="#91ADFF" stroke-width="8"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif">
+<text x="26" y="35" fill="#91ADFF" font-size="14" font-family="ui-monospace,monospace">03 / PRODUCTO</text>
+<text x="26" y="72" fill="#F7F9FC" font-size="26" font-weight="600" letter-spacing="-.5">Operaciones conectadas</text>
+<text x="26" y="101" fill="#AAB5C6" font-size="14">Herramientas · Documentos · Datos</text>
+</g>
+<path d="M466 24v80" stroke="#29334A"/>
+<g transform="translate(485 14)" fill="none" stroke="#91ADFF" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"><rect x="28" y="20" width="90" height="60"/><path d="M28 34h90M39 28h2m6 0h2m-10 18h24m-24 12h30m-30 12h18M79 69V54m10 15V42m10 27V49"/><path d="M118 50h24m-7-7 7 7-7 7"/><path d="M158 20h49l18 18v42h-67Zm49 0v18h18m-53 11h39m-39 11h39m-39 10h25"/></g>
+</svg>

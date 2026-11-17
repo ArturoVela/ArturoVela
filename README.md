@@ -9,82 +9,205 @@
 </a>
 </p>
 
-Construyo productos web y sistemas internos: conecto interfaces, datos y despliegue alrededor de procesos reales.
+Construyo **productos web y sistemas para operaciones reales**: desde entradas con trazabilidad blockchain hasta catálogos comerciales, herramientas internas y aplicaciones de uso diario.
 
 Desde **Tarapoto, Perú · UTC−5**. Estudiante de Ingeniería de Sistemas en la **UNSM**. Disponible para roles full-stack, proyectos freelance y colaboración técnica.
 
-## Principal
+[Portafolio](https://velaarturo.com/) · [CV](https://cv.velaarturo.com/) · [Artículos](https://blog.velaarturo.com/es/articulos) · [Contacto](mailto:dev@velaarturo.com)
 
-<p>
-  <a href="https://velaarturo.com/"><img src="./assets/link-portfolio.svg" width="248" height="120" alt="Mi portafolio — Proyectos, perfil y contacto. Abrir velaarturo.com."></a>
-</p>
+[Productos destacados](#productos-destacados) · [Más productos](#más-productos) · [Stack](#stack-actual) · [Actividad](#actividad-en-github)
 
-[CV](https://cv.velaarturo.com/) · [Artículos técnicos](https://blog.velaarturo.com/es/articulos) · [Hablemos](https://velaarturo.com/es/contacto) · [Correo](mailto:dev@velaarturo.com)
+## Productos destacados
 
-## SaaS
+### 01 / Vela Entradas · Blockchain aplicada
 
-Productos para organizar finanzas, negocios y operaciones. Algunas aplicaciones requieren iniciar sesión.
+<a href="https://bc.velaarturo.com/blockchain">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-blockchain-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/project-blockchain-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-blockchain-dark.svg">
+    <img src="./assets/project-blockchain-light.svg" width="100%" alt="Vela Entradas: entrada digital, bloques enlazados y prueba verificable. Explorar blockchain.">
+  </picture>
+</a>
 
-<!-- Los enlaces envuelven cada SVG: GitHub no permite interacción dentro de las imágenes. -->
-<p>
-  <a href="https://finanzas.velaarturo.com/"><img src="./assets/link-finanzas.svg" width="248" height="120" alt="Finanzas — Cuentas, movimientos y metas. Abrir finanzas.velaarturo.com."></a>
-  <a href="https://ventas.velaarturo.com/"><img src="./assets/link-ventas.svg" width="248" height="120" alt="Ventas — Ventas, inventario y caja. Abrir ventas.velaarturo.com."></a>
-  <a href="https://agua.velaarturo.com/"><img src="./assets/link-agua.svg" width="248" height="120" alt="Agua — Monitoreo y control del agua. Abrir agua.velaarturo.com."></a>
-  <a href="https://agro.velaarturo.com/"><img src="./assets/link-agro.svg" width="248" height="120" alt="Agro — Tu campo, tus cuentas. Abrir agro.velaarturo.com."></a>
-  <a href="https://bc.velaarturo.com/"><img src="./assets/link-bc.svg" width="248" height="120" alt="Vela Entradas — Entradas digitales para eventos. Abrir bc.velaarturo.com."></a>
-  <a href="https://tarjetas.velaarturo.com/"><img src="./assets/link-tarjetas.svg" width="248" height="120" alt="Tarjetas — Fidelización para tu negocio. Abrir tarjetas.velaarturo.com."></a>
-</p>
+Plataforma de entradas para asistentes y organizadores. Combina **QR temporales, canje único y transferencias** con un registro verificable de emisión, uso y revocación.
 
-## Proyectos destacados
+La blockchain privada enlaza bloques SHA-256 y pruebas Merkle. **OpenTimestamps permite verificar su existencia en Bitcoin** cuando el sello externo se confirma. Vela opera la cadena; no utiliza consenso descentralizado.
 
-### Nieto Import
+`React` `TypeScript` `Cloudflare Workers` `D1` `R2` `SHA-256` `OpenTimestamps`
 
-Herramientas internas para **Nieto Import y Agromaf**: etiquetas, documentación, firmas corporativas y formularios de gestión. Desarrollo full-stack y evolución del producto, con permisos y acceso web y móvil.
+[Abrir producto](https://bc.velaarturo.com/) · [Explorar blockchain](https://bc.velaarturo.com/blockchain) · [Ver proyecto](https://velaarturo.com/es/proyectos/bc)
 
-**Next.js · React · TypeScript · Supabase · Capacitor**
+### 02 / Agromaf · Catálogo y cotización
 
-[Ver caso de estudio](https://velaarturo.com/es/proyectos/nieto-import)
+<a href="https://web.agromaf.pe/">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-agromaf-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/project-agromaf-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-agromaf-dark.svg">
+    <img src="./assets/project-agromaf-light.svg" width="100%" alt="Agromaf: catálogo de productos, selección de artículos y cotización por WhatsApp. Visitar web.">
+  </picture>
+</a>
 
-### Second Brain
+Web comercial para **Cia Agromaf y Cia Agromaf Perú**. Catálogo por empresa, marcas, fichas técnicas, comparación de productos y carrito de cotización que prepara la consulta por WhatsApp.
 
-Espacio privado para conocimiento, tareas, proyectos y archivos versionados. Conecta búsqueda y relaciones con la publicación editorial en mi portafolio, blog y CV.
+Administración de productos y contenido, permisos por empresa, fotografías en R2 y catálogos PDF. Una misma plataforma conecta la consulta pública con el trabajo del equipo.
 
-**React · TypeScript · Mantine · Cloudflare Workers · D1 · R2 · Queues**
+`Astro` `TypeScript` `Supabase` `Cloudflare Workers` `R2`
 
-[Ver caso de estudio](https://velaarturo.com/es/proyectos/second-brain)
+[Visitar Agromaf](https://web.agromaf.pe/) · [Explorar catálogo](https://web.agromaf.pe/catalogo)
 
-### Vela Ventas
+### 03 / Nieto Import · Operaciones y datos
 
-Operaciones comerciales para negocios peruanos: ventas, compras, stock por sucursal, cierre diario de caja, Kardex y trazabilidad. Permisos por negocio y aislamiento de datos en el servidor.
+<a href="https://nieto.velaarturo.com/">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/project-nieto-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/project-nieto-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/project-nieto-dark.svg">
+    <img src="./assets/project-nieto-light.svg" width="100%" alt="NIETO: herramientas operativas, documentación y paneles de datos. Ver productos digitales.">
+  </picture>
+</a>
 
-**React · TypeScript · Chakra UI · Hono · Cloudflare Workers · D1**
+Herramientas internas para **Nieto Import y Agromaf**: etiquetas, documentación, firmas corporativas y formularios de gestión, con permisos y acceso web y móvil.
 
-[Abrir Vela Ventas](https://ventas.velaarturo.com/)
+El ecosistema incluye **DATANIETO**, que convierte información comercial histórica en paneles consultables, y **NIETO Hub**, su escaparate público. Los sistemas operativos requieren autorización.
 
-### Explora San Martín
+`Next.js` `React` `TypeScript` `Supabase` `Capacitor` `Cloudflare`
 
-Catálogo turístico con **164 lugares documentados**, mapa MapLibre, fichas renderizadas en el servidor y pasaporte personal. Combina contenido trazable con flujos editoriales protegidos.
+[Ver NIETO Hub](https://nieto.velaarturo.com/) · [Caso Nieto Import](https://velaarturo.com/es/proyectos/nieto-import) · [Caso DATANIETO](https://velaarturo.com/es/proyectos/db-nieto)
 
-**React Router · React · TypeScript · Chakra UI · Workers · D1 · R2 · MapLibre**
+## Más productos
+
+<details open>
+<summary><strong>Second Brain</strong> · Conocimiento y publicación</summary>
+
+Espacio privado para conocimiento, tareas, relaciones y archivos versionados. Publica contenido hacia mi portafolio, blog y CV.
+
+`React` `TypeScript` `Mantine` `Workers` `D1` `R2` `Queues`
+
+[Ver caso de estudio](https://velaarturo.com/es/proyectos/second-brain) · Acceso privado
+
+</details>
+
+<details>
+<summary><strong>Vela Ventas</strong> · Operación comercial</summary>
+
+Ventas, compras, inventario por sucursal, caja diaria y Kardex para comercios peruanos. Permisos por negocio y aislamiento de datos en el servidor.
+
+`React` `TypeScript` `Chakra UI` `Hono` `Workers` `D1`
+
+[Abrir producto](https://ventas.velaarturo.com/)
+
+</details>
+
+<details>
+<summary><strong>Explora San Martín</strong> · Turismo con fuentes verificables</summary>
+
+Mapa turístico, **164 lugares documentados** con fuentes y pasaporte personal. Combina fichas renderizadas en el servidor con flujos editoriales protegidos.
+
+`React Router` `React` `TypeScript` `MapLibre` `Workers` `D1` `R2`
 
 [Explorar la app](https://explora.velaarturo.com/) · [Ver caso de estudio](https://velaarturo.com/es/proyectos/explora-san-martin)
 
+</details>
+
+<details>
+<summary><strong>Cafetero</strong> · Directorio y pasaporte de cafeterías</summary>
+
+Cafeterías del Perú con mapas, fichas verificables y registro de visitas.
+
+`React Router` `React` `TypeScript` `Chakra UI`
+
+[Ver caso de estudio](https://velaarturo.com/es/proyectos/coffee)
+
+</details>
+
+<details>
+<summary><strong>Cotiza</strong> · Cotizaciones y documentos</summary>
+
+Cotizaciones y borradores de contratos con cálculos decimales, borradores recuperables y exportación PDF.
+
+[Abrir herramienta](https://cotiza.velaarturo.com/) · [Cómo lo construí](https://blog.velaarturo.com/es/articulos/como-se-creo-cotiza)
+
+</details>
+
+<details>
+<summary><strong>Más SaaS y herramientas de mi ecosistema</strong></summary>
+
+Productos para finanzas, operaciones y fidelización. Algunas aplicaciones requieren cuenta o autorización.
+
+<!-- Los enlaces envuelven cada SVG: GitHub no permite interacción dentro de las imágenes. -->
+<p>
+  <a href="https://finanzas.velaarturo.com/"><img src="./assets/link-finanzas.svg" width="248" height="120" alt="Finanzas — Cuentas, movimientos y metas."></a>
+  <a href="https://ventas.velaarturo.com/"><img src="./assets/link-ventas.svg" width="248" height="120" alt="Ventas — Ventas, inventario y caja."></a>
+  <a href="https://agua.velaarturo.com/"><img src="./assets/link-agua.svg" width="248" height="120" alt="AquaVigía — Plataforma de agua con acceso autorizado."></a>
+  <a href="https://agro.velaarturo.com/"><img src="./assets/link-agro.svg" width="248" height="120" alt="Agro Vela — Tu campo, tus cuentas."></a>
+  <a href="https://bc.velaarturo.com/"><img src="./assets/link-bc.svg" width="248" height="120" alt="Vela Entradas — Entradas digitales para eventos."></a>
+  <a href="https://tarjetas.velaarturo.com/"><img src="./assets/link-tarjetas.svg" width="248" height="120" alt="Tarjetas — Fidelización para tu negocio."></a>
+</p>
+
+También construyo herramientas que procesan archivos en el navegador: [PDF](https://pdf.velaarturo.com/) y [Foto](https://foto.velaarturo.com/). Encuentra el resto en [mi catálogo de proyectos](https://velaarturo.com/es/proyectos).
+
+</details>
+
 ## Stack actual
 
-- **Interfaces:** React, TypeScript, Next.js, React Router, Chakra UI y Mantine.
+- **Interfaces:** React, TypeScript, Astro, Next.js, React Router, Chakra UI y Mantine.
 - **APIs y datos:** Cloudflare Workers, Hono, SQL, D1 y Supabase.
 - **Archivos y tareas en segundo plano:** R2, Queues y Worker Service Bindings.
 - **Verificación:** Vitest, Playwright, comprobación de tipos y Git.
+
+<p>
+  <img src="https://img.shields.io/badge/React-0E1420?style=flat-square&amp;logo=react&amp;logoColor=91ADFF" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-0E1420?style=flat-square&amp;logo=typescript&amp;logoColor=91ADFF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Cloudflare-0E1420?style=flat-square&amp;logo=cloudflare&amp;logoColor=F18B72" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Astro-0E1420?style=flat-square&amp;logo=astro&amp;logoColor=F18B72" alt="Astro">
+  <img src="https://img.shields.io/badge/Supabase-0E1420?style=flat-square&amp;logo=supabase&amp;logoColor=78CEAF" alt="Supabase">
+</p>
+
+## Actividad en GitHub
+
+Commits, pull requests, estrellas, lenguajes y rachas. Las tarjetas se generan diariamente en este repositorio; cada componente utiliza el período que indica.
+
+<p>
+  <a href="https://github.com/ArturoVela?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg">
+      <img src="./assets/github-stats-light.svg" height="195" alt="Estadísticas de ArturoVela: commits del período indicado, estrellas, pull requests, incidencias y repositorios con contribuciones.">
+    </picture>
+  </a>
+  <a href="https://github.com/ArturoVela?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-languages-dark.svg">
+      <img src="./assets/github-languages-light.svg" height="195" alt="Lenguajes más usados en los repositorios públicos de ArturoVela.">
+    </picture>
+  </a>
+</p>
+
+<a href="https://github.com/ArturoVela?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-streak-dark.svg">
+    <img src="./assets/github-streak-light.svg" width="495" alt="Contribuciones totales, racha actual y racha más larga de ArturoVela. Zona horaria: Lima.">
+  </picture>
+</a>
+
+<details>
+<summary><strong>Mi calendario de contribuciones, en modo Snake</strong></summary>
+
+Una serpiente recorre el calendario de contribuciones del último año.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+  <img src="./assets/github-snake-light.svg" width="100%" alt="Animación Snake del calendario de contribuciones de ArturoVela, con acentos azul y coral.">
+</picture>
+
+</details>
+
+<sub>Las estadísticas de código reflejan repositorios públicos; las rachas siguen mi calendario visible de GitHub. Los lenguajes no miden dominio técnico. Componentes: <a href="https://github.com/stats-organization/github-readme-stats-action">Readme Stats Action</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Streak Stats</a> y <a href="https://github.com/Platane/snk">Snake</a>. <a href="https://github.com/ArturoVela/ArturoVela/actions/workflows/profile-cards.yml">Ver actualización</a>.</sub>
 
 ## Código público
 
 - [Porta](https://github.com/ArturoVela/Porta) — portafolio con React, Vite, Chakra UI y Cloudflare Workers; contenido desde Second Brain.
 - [ApiRest](https://github.com/ArturoVela/ApiRest) — API de gestión académica con Java 17 y Spring Boot.
-
-## Herramientas y artículos
-
-[Explora mis apps](https://velaarturo.com/dev#apps): utilidades de documentos, imágenes, texto, color y coordinación. Algunas son [Cotiza](https://cotiza.velaarturo.com/), [PDF](https://pdf.velaarturo.com/) y [Foto](https://foto.velaarturo.com/).
-
-[Cómo se creó Cotiza](https://blog.velaarturo.com/es/articulos/como-se-creo-cotiza): cálculos decimales, borradores recuperables y documentos compartidos.
 
 **¿Tienes un producto o proceso por mejorar?** [Hablemos](https://velaarturo.com/es/contacto).
